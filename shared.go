@@ -6,5 +6,5 @@ import (
 )
 
 func init() {
-	core.RegisterAppender("sharedRollingFile", impl.NewSharedRollingFileAppender)
+	core.RegisterAppender("sharedRollingFile", impl.BuildSharedRollingFileAppender)
 }
