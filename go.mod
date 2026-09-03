@@ -6,7 +6,7 @@ require (
 	github.com/go-errr/go v1.0.14
 	github.com/go-jang/file-lock v1.0.1
 	github.com/go-jang/go v1.0.4
-	github.com/go-log4g/core v1.0.9
+	github.com/go-log4g/core v1.0.10
 )
 
 require (
